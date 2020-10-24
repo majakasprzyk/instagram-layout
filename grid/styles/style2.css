@@ -1,3 +1,6 @@
+*{
+    box-sizing: border-box;
+}
 body{
     margin: 0;
 }
@@ -6,6 +9,7 @@ img{
     display: block;
     width: 100%;
     height: 100%;
+  
 }
 
 #gallery{
@@ -15,6 +19,8 @@ img{
     gap: 10px;
     width: 100%;
     height: 100vh;
+    padding: 10px;
+    border: 30px solid black;
 }
 
 .img-0{
