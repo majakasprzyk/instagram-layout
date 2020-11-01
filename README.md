@@ -1,3 +1,5 @@
+[Link do wykonanego zadania 1](https://majakasprzyk.github.io/jfdzr2-homework-1/grid/index.html)
+
 # Zadanie domowe 1
 
 Przed rozpoczęciem pracy nad zadaniem domowym, zróbcie fork tego repozytorium oraz ustawcie dla niego Github Pages (wklejając jednocześnie link do sekcji `about`) dokładnie tak jak zostało to zrobione dla repozytorium projektowego.
