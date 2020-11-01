@@ -8,6 +8,8 @@ body{
 
 main{
    display: flex;
+   max-width: 50%;
+   
 }
 
 .login{
@@ -19,4 +21,21 @@ main{
     margin: 70px;
     padding: 40px;
     border: 0.5px solid #e9ebf0;
+}
+
+.submit{
+    background-color: #b2dffc;
+    color: white;   
+    padding: 5px;
+}
+h3{
+    color: #395285;
+    text-align: center;
+    font-size: 15px;
+    
+}
+h4{
+    color: #395285;
+    text-align: center;
+    font-size: 10px;
 }

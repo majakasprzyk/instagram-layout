@@ -1,0 +1,66 @@
+*{
+    box-sizing: border-box;
+    }
+    
+body{
+    background-color: #fafafa;
+    margin: 50px 0;
+    
+}
+
+input{
+    border-radius: 0px;
+    margin: 5px;
+    padding: 5px;
+}
+   
+#cointainer{
+    display: grid;
+    grid-template-columns: auto 350px;
+    grid-template-rows: repeat(8, 78px);
+    justify-content: center;
+    
+    
+}
+
+.phone{
+    grid-column: 1 / 2;
+    grid-row: 1 / 9;
+    height: auto;
+}
+
+.box-1{
+    display: block;
+    grid-column: 2 / 3;
+    grid-row: 1 / 6;
+    background-color: white;
+    text-align: center;
+    border: 0.5px solid #e9ebf0;
+    margin: 0 0 10px;
+    padding: 10px 0;
+}
+
+.box-2{
+    display: block;
+    grid-column: 2 / 3;
+    grid-row: 6 / 7;
+    background-color: white;
+    text-align: center;
+    border: 0.5px solid #e9ebf0;
+    margin: 30px;
+   
+
+
+}
+
+.box-3{
+    grid-column: 2 / 3;
+    grid-row: 7 / 8;
+    text-align: center;
+}
+
+.box-4{
+    grid-column: 2 / 3;
+    grid-row: 8 / 9;
+}
+
