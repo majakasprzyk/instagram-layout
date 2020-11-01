@@ -12,6 +12,15 @@ input{
     border-radius: 0px;
     margin: 5px;
     padding: 5px;
+    
+}
+
+.submit{
+    background-color: #b2dffc;
+    color: white;   
+    padding: 5px;
+    border-radius: 5px;
+    
 }
    
 #cointainer{
