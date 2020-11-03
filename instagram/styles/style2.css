@@ -1,5 +1,6 @@
 *{
     box-sizing: border-box;
+    font-family: 'Lato', sans-serif;
     }
     
 body{
@@ -81,4 +82,5 @@ input{
 
 p{
     padding: 10px;
+    color: #3a6998;
 }
