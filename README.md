@@ -1,4 +1,7 @@
-[Link do wykonanego zadania 1](https://majakasprzyk.github.io/jfdzr2-homework-1/grid/index.html)
+[Link do zadania grid](https://majakasprzyk.github.io/jfdzr2-homework-1/grid/index.html)
+
+[Link do zadania instagram](https://majakasprzyk.github.io/jfdzr2-homework-1/instagram/index.html)
+
 
 # Zadanie domowe 1
 
