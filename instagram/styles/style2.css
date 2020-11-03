@@ -73,3 +73,12 @@ input{
     grid-row: 8 / 9;
 }
 
+/* footer style */
+
+#information{
+    display: flex;
+}
+
+p{
+    padding: 10px;
+}
