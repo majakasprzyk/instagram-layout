@@ -78,9 +78,24 @@ input{
 
 #information{
     display: flex;
+    flex-wrap: wrap;
+    justify-content: flex-start;
 }
 
-p{
-    padding: 10px;
+#information p{
+    padding: 5px;
     color: #3a6998;
+    font-weight: bold;
+    margin: 0;
+    padding: 10px;
+}
+
+#copyrights{
+   display: flex;
+   justify-content: flex-end;
+}
+
+#copyrights p{
+   color: #bdb4b3;
+   margin: 0;
 }
