@@ -12,18 +12,20 @@ body{
 input{
     border-radius: 0px;
     margin: 5px;
-    padding: 5px;
+    padding: 10px 30px;
     border: 1px solid #f1f1f1;
     background-color: #fafafa;
     
 }
 
+
 .submit{
     background-color: #b2dffc;
     color: white;   
-    padding: 5px;
+    padding: 10px 90px;
     border-radius: 5px;
     border: 0;
+    
     
 }
    
@@ -75,6 +77,10 @@ input{
     grid-row: 8 / 9;
 }
 
+h2{
+    font-size: 16px;
+    color: grey;
+}
 h3, h4{
     color: #41598b;
 }
