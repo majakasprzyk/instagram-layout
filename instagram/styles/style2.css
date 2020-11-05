@@ -13,6 +13,8 @@ input{
     border-radius: 0px;
     margin: 5px;
     padding: 5px;
+    border: 1px solid #f1f1f1;
+    background-color: #fafafa;
     
 }
 
@@ -21,6 +23,7 @@ input{
     color: white;   
     padding: 5px;
     border-radius: 5px;
+    border: 0;
     
 }
    
@@ -54,19 +57,17 @@ input{
     display: block;
     grid-column: 2 / 3;
     grid-row: 6 / 7;
-    background-color: white;
     text-align: center;
+    background-color: white;
     border: 0.5px solid #e9ebf0;
-    margin: 30px;
    
-
-
 }
 
 .box-3{
     grid-column: 2 / 3;
     grid-row: 7 / 8;
     text-align: center;
+
 }
 
 .box-4{
@@ -74,7 +75,21 @@ input{
     grid-row: 8 / 9;
 }
 
+h3, h4{
+    color: #41598b;
+}
+
+h4{
+    font-weight: 400;
+}
+
 /* footer style */
+
+footer {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
 
 #information{
     display: flex;
