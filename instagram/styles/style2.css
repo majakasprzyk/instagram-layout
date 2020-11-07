@@ -7,6 +7,7 @@ body{
     background-color: #fafafa;
     margin: 50px 0;
     
+    
 }
 
 input{
@@ -22,7 +23,7 @@ input{
 .submit{
     background-color: #b2dffc;
     color: white;   
-    padding: 10px 90px;
+    padding: 10px 80px;
     border-radius: 5px;
     border: 0;
     
@@ -75,6 +76,8 @@ input{
 .box-4{
     grid-column: 2 / 3;
     grid-row: 8 / 9;
+    justify-self: center;
+    cursor: pointer;
 }
 
 h2{
@@ -83,10 +86,17 @@ h2{
 }
 h3, h4{
     color: #41598b;
+    cursor: pointer;
 }
 
 h4{
     font-weight: 400;
+}
+
+span{
+    color: #5fc5ed;
+    font-weight: bold;
+    cursor: pointer;
 }
 
 /* footer style */
@@ -120,4 +130,16 @@ footer {
 #copyrights p{
    color: #bdb4b3;
    margin: 0;
+}
+
+/* mobile*/
+
+@media (max-width: 790px){
+.phone{
+    display: none;
+}
+
+
+
+
 }
