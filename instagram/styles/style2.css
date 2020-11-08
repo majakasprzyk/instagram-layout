@@ -55,12 +55,14 @@ input{
 }
 
 .box-2{
-    display: block;
+    display: flex;
     grid-column: 2 / 3;
     grid-row: 6 / 7;
     text-align: center;
     background-color: white;
     border: 0.5px solid #e9ebf0;
+    justify-content: center;
+    align-items: center;
    
 }
 
