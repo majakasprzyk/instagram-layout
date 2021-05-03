@@ -25,7 +25,3 @@ MY COPY WITH MY PHOTOS:
 
 ![mygrid](https://user-images.githubusercontent.com/70386097/116919830-2a2fbf00-ac52-11eb-8a7a-a2db6578871a.png)
 
-
-[Zadanie grid](grid/index.html)
-
-[Zadanie instagram](instagram/index.html)
