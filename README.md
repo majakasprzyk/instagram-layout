@@ -1,24 +1,31 @@
-[Link do zadania grid](https://majakasprzyk.github.io/jfdzr2-homework-1/grid/index.html)
-
-[Link do zadania instagram](https://majakasprzyk.github.io/jfdzr2-homework-1/instagram/index.html)
 
 
-# Zadanie domowe 1
 
-Przed rozpoczęciem pracy nad zadaniem domowym, zróbcie fork tego repozytorium oraz ustawcie dla niego Github Pages (wklejając jednocześnie link do sekcji `about`) dokładnie tak jak zostało to zrobione dla repozytorium projektowego.
 
-Struktura dla rozwiązań została już stworzona w tym repozytorium.
+## Instagram layout. 
+Made with HTML and CSS.
 
-Termin oddania prac domowych mija 2020-11-08.
+ORYGINAL:
+![instagram](img/instagram.png)
 
-## Cześć 1 - stworzenie grida ze zdjęciami
+MY COPY:
+[My layout's copy](https://majakasprzyk.github.io/jfdzr2-homework-1/instagram/index.html)
 
+![mycopyofinsta](https://user-images.githubusercontent.com/70386097/116919492-a2e24b80-ac51-11eb-8cb0-f6329df173d4.png)
+
+
+## Grid gallery
+Made with HTML and CSS grid.
+
+ORYGINAL:
 ![grid](img/grid.png)
 
+MY COPY WITH MY PHOTOS:
+[My gallery's copy](https://majakasprzyk.github.io/jfdzr2-homework-1/grid/index.html)
+
+![mygrid](https://user-images.githubusercontent.com/70386097/116919830-2a2fbf00-ac52-11eb-8a7a-a2db6578871a.png)
+
+
 [Zadanie grid](grid/index.html)
-
-## Cześć 2 - odwzorowanie strony głównej instagrama
-
-![instagram](img/instagram.png)
 
 [Zadanie instagram](instagram/index.html)
